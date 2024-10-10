@@ -1,5 +1,8 @@
- ### Scenario:
-Shopme, a mid-sized e-commerce company, was targeted by a ransomware attack. An employee unknowingly clicked on a malicious email attachment, which allowed attackers to gain access to the company's network. The ransomware encrypted critical customer data and internal files, rendering them inaccessible. The attackers demanded $500,000 in Bitcoin to restore the data, threatening to release sensitive customer information if the ransom wasn’t paid.
 
-Your task is to define goals, scope, risk assessment and is, making a robust Incident Response Plan for this breach.
+
+## Case Study
+
+
+
+
 
